@@ -1,2 +1,3 @@
 # Metro-Go
 Metro Go web application is for users who wish to avail the metro facilities in many places of India. The intention of this application is to reduce the queue at ticket counters. The approximate amount of routes available, approximate cost, online booking, past bookings and much more. Through the displayed routes, the user gets a clear-cut information about the stations the metro passes through and where the user tends to travel. Based on users request it is possible to proceed to ticket booking and users details are thus stored in the database from where ticket details can be obtained.
+This is the place where user can view and book tickets of different state's metro in single portal.
